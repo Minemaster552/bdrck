@@ -1,2 +1,2 @@
 # bdrck
-Blockly, visual MCBE addon creation.
+Blockly-based, visual MCBE addon creation.
